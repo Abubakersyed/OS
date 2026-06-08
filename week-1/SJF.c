@@ -39,12 +39,6 @@ void main()
 		
 	}
 	
-	
-
-	
-
-
-
 wt[0]=0;
 
 //waiting time for first process will be Zero
